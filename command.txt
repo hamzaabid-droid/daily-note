@@ -1,0 +1,6 @@
+Common Git Commands
+git init – create a repository
+git status – check file status
+git add – stage files
+git commit – save changes
+git config – set username and email
