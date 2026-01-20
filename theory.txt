@@ -1,0 +1,11 @@
+Backend Engineering (Real Companies)
+Backend engineers work on server-side logic, databases, APIs, authentication, and performance.
+They ensure data is processed securely and correctly.
+Backend vs Frontend vs DevOps
+Frontend: UI and user experience.
+Backend: Server logic, APIs, databases.
+DevOps: Deployment, servers, automation.
+How Teams Collaborate on Code
+Teams use Git branches, commits, pull requests, and code reviews to work together safely.
+Why Git Exists
+Git tracks changes, prevents code loss, supports teamwork, and allows rollback to older versions.
