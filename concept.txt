@@ -1,0 +1,10 @@
+Repository
+A storage location for project files and history.
+Commit
+A saved snapshot of changes.
+Working Tree vs Staging Area
+Working Tree: edit files.
+Staging Area: prepare files for commit.
+Local vs Remote Repository
+Local: on your computer.
+Remote: online for sharing and backup.
