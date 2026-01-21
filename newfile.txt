@@ -1,0 +1,14 @@
+Theory:
+GitHub vs GitLab
+Open-source workflow
+PR lifecycle
+Commands:
+git remote
+git push
+git pull
+git fetch
+Hands-on:
+Push project to GitHub
+Create PR
+Self-review PR
+Merge with rebase
